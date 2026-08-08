@@ -390,11 +390,11 @@ security/
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Amine-navas&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amine-navas&theme=dark&hide_border=true" />
 
 </div>
 
