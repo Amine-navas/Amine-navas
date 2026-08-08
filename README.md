@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Software+Engineering+Student;Kali+Linux+Enthusiast;Network+Security;Web+Application+Security;Python+%7C+C%2B%2B+%7C+C;Always+Learning+%26+Building" />
-text
+
+<pre>
 ████████████████████████████████████████████████████████████████████
 
       ██████╗██╗   ██╗██████╗ ███████╗██████╗
@@ -15,10 +15,21 @@ text
               [ KALI LINUX ENVIRONMENT ]
 
 ████████████████████████████████████████████████████████████████████
-👋 Hi, I'm Amine Aymen
-🛡️ Cybersecurity Student • 💻 Software Engineering • 🐧 Linux Enthusiast
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Software+Engineering+Student;Kali+Linux+Enthusiast;Network+Security;Web+Application+Security;Python+%7C+C%2B%2B+%7C+C;Always+Learning+%26+Building" /> </div>
-🖥️ whoami
+</pre>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF9C&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Software+Engineering+Student;Kali+Linux+Enthusiast;Network+Security;Web+Application+Security;Python+%7C+C%2B%2B+%7C+C;Always+Learning+%26+Building" />
+
+<h1>👋 Hi, I'm Amine Aymen</h1>
+
+<h3>🛡️ Cybersecurity Student • 💻 Software Engineering • 🐧 Linux Enthusiast</h3>
+
+</div>
+
+---
+
+## 🖥️ whoami
+
+```text
 ┌──(amine㉿kali)-[~]
 └─$ whoami
 
@@ -172,7 +183,7 @@ Authentication
 │                  PRIVACY & NETWORKING                │
 ├──────────────────────────────────────────────────────┤
 │                                                      │
-│   💻 CLIENT                                         │
+│   💻 CLIENT                                          │
 │       │                                              │
 │       ▼                                              │
 │   🔐 VPN TUNNEL                                      │
@@ -183,7 +194,7 @@ Authentication
 │       ▼                                              │
 │   🔎 INTERNET                                        │
 │                                                      │
-│   PROXY                                               │
+│   PROXY                                              │
 │       │                                              │
 │       ├── HTTP Proxy                                 │
 │       ├── HTTPS Proxy                                │
@@ -353,7 +364,14 @@ Linux Skills
 [███████████████░░░░░░░] C / C++
 [████████████░░░░░░░░░░] Database Security
 [███████████░░░░░░░░░░░] DevOps
-
+📊 GITHUB STATISTICS
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true"/> </p>
+🔥 CONTRIBUTION STREAK
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true"/> </p>
+📈 CONTRIBUTION GRAPH
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/> </p>
+🐍 CONTRIBUTION SNAKE
+<p align="center"> <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/> </p>
 🧠 PHILOSOPHY
 ┌────────────────────────────────────────────────────────────┐
 │                                                            │
@@ -364,6 +382,15 @@ Linux Skills
 │              BUILD • BREAK • LEARN                         │
 │                                                            │
 └────────────────────────────────────────────────────────────┘
-
+📡 CONNECT
+<p align="center"> <a href="https://github.com/Amine-navas"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/amine-aymen-senbati-92855a301/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:navaslalegend@gmail.com"> <img src="https://img.shields.io/badge/Email-00FF9C?style=for-the-badge&logo=gmail&logoColor=black"/> </a> </p>
+<div align="center">
+┌──────────────────────────────────────────┐
+│                                          │
+│       SYSTEM STATUS: 🟢 ONLINE           │
+│       SECURITY STATUS: 🟢 ACTIVE         │
+│       LEARNING STATUS: 🟢 24/7           │
+│                                          │
+└──────────────────────────────────────────┘
 ⚡ BUILD • BREAK • LEARN • REPEAT ⚡
-</div> ```
+</div>
