@@ -346,23 +346,23 @@ security/
 │                         PROJECTS                             │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  🔐 Vulnerability Scanner                                    │
-│     Network & application vulnerability analysis              │
+│  🔐 Vulnerability Scanner                                   │
+│     Network & application vulnerability analysis             │
 │                                                              │
-│  🦠 Malware Analysis Platform                                │
-│     Malware detection and analysis                            │
+│  🦠 Malware Analysis Platform                               │
+│     Malware detection and analysis                           │
 │                                                              │
 │  📧 Phishing Detector                                        │
-│     Machine-learning based phishing detection                 │
+│     Machine-learning based phishing detection                │
 │                                                              │
 │  🛡️ Security Database                                        │
-│     Vulnerability & malware database analysis                  │
+│     Vulnerability & malware database analysis                │
 │                                                              │
 │  🌐 Secure Web Application                                   │
-│     Authentication + database + security controls             │
+│     Authentication + database + security controls            │
 │                                                              │
 │  🔎 Network Security Tools                                   │
-│     Network analysis and security utilities                    │
+│     Network analysis and security utilities                  │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
